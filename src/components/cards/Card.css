@@ -1,0 +1,12 @@
+.carddiv{
+    background-color: black;
+    color: white;
+    width: 30%;
+    border: 1px solid red;
+    margin: 1rem;
+}
+
+.img{
+    background-size: cover;
+    width: 100%;
+}
