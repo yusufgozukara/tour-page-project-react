@@ -31,5 +31,18 @@
 .navbar ul li:hover{
 background-color: lightblue;
 transition: 300ms;
+
+}
+.navbar ul li a:hover{
+color: black;
+
+}
+
+
+@media (max-width:800px){
+    .navbar ul li{
+        display: block;
+        flex-direction: column;
     
+    }
 }
