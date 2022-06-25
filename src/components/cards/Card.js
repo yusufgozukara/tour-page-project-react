@@ -10,7 +10,7 @@ const Card = ({data}) => {
             return(
                 <div className="carddiv" key={id}>
                     <h1>{title}</h1>
-                    <img className='img' src={image} alt="image" />
+                    <img className='imgg' src={image} alt="image" />
                     <p className='desc'>{desc}</p>
                 </div>
             )

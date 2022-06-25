@@ -23,12 +23,12 @@ font-family: 'Roboto', sans-serif; */
     max-height: 400px;
 }
 
-.img{
+.imgg{
     background-size: cover;
     width: 100%;
     height: 80%;
 }
-.img:hover{
+.imgg:hover{
     filter: grayscale(100%);
 }
 
