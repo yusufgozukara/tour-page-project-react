@@ -11,7 +11,7 @@ const Card = ({data}) => {
                 <div className="carddiv" key={id}>
                     <h1>{title}</h1>
                     <img className='img' src={image} alt="image" />
-                    <p>{desc}</p>
+                    <p className='desc'>{desc}</p>
                 </div>
             )
         })}
